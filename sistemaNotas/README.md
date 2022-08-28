@@ -6,3 +6,5 @@ Programa criado com o objetivo de arredondar e informar se um aluno foi aprovado
 * As notas possuem a seguinte regra de arredondamento: 
 	* Se a diferença entre a nota e o próximo múltiplo de 5 for menor que 3, arredondar a nota para esse próximo múltiplo de 5. 
 	* Se a nota for abaixo de 38, não é feito nenhum arredondamento pois esta nota resulta na reprovação do aluno. 
+
+Clique [aqui](https://vinibardev.github.io/Processo-C3C/sistemaNotas/) para ver o projeto no ar
